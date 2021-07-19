@@ -22,7 +22,7 @@ spec:
 apiVersion: v1
 kind: Service
 metadata:
-  name: helloworld-v1-service
+  name: helloworld-v2-service
 spec:
   type: NodePort
   ports:
